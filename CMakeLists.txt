@@ -20,3 +20,6 @@ add_executable(PO5
 add_executable(PO6
         first_week/PO6.cpp)
 
+add_executable(PO14
+        first_week/PO14.cpp)
+
